@@ -1,2 +1,3 @@
-# Dev_project
-Second practice
+# maven-project
+
+Demo Maven Project
